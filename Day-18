@@ -1,0 +1,11 @@
+static void solve(parameters) {
+
+    // Base case
+    if(condition) {
+        return;
+    }
+
+    // Work
+
+    solve(smaller problem);
+}
