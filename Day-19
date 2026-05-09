@@ -1,0 +1,5 @@
+System.out.println("Before");
+
+solve(n - 1);
+
+System.out.println("After");
